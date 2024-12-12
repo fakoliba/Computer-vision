@@ -11,8 +11,6 @@ The aim of this project is to Build a Convolutional Neural Netowrk to classify p
 Data Dictionary
 The Aarhus University Signal Processing group, in collaboration with the University of Southern Denmark, has recently released a dataset containing images of unique plants belonging to 12 different species.
 
-The dataset can be download from Olympus.
-
 The data file names are:
 
 images.npy
